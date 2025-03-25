@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+
+body{
+    background-color: rgb(145, 188, 200);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    /* color: white; */
+}
+
+.heading1{
+    color: rgb(171, 11, 177);
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+img{
+    width: 50%;
+    height: 50%;
+    display: block;
+    margin: 20px 300px 20px 400px;
+    border-radius: 30px;
+    border: 2px solid rgb(174, 48, 48);
+}
+.intro-paragraph{
+    font-size: 20px;
+    text-align: center;
+    margin: 20px 300px 20px 400px;
+}
+#tech-stack{
+    font-size: 20px;
+    text-align: center;
+    margin: 20px 300px 20px ;
+}
+#tech-stack ul li{
+    list-style: none;
+}
+.fav{
+    font-size: 20px;
+    text-align: center;
+    margin: 20px 300px 20px 400px;
+}
+footer{
+    background-color: rgb(171, 11, 177);
+    color: white;
+    text-align: center;
+    padding: 25px;
+    height: 4rem;
+    /* width: 100%; */
+}
